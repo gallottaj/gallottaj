@@ -5,9 +5,5 @@
 
 Here are some ideas to get you started:-->
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=gallottaj&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallottaj&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallottaj&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
